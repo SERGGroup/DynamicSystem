@@ -1,0 +1,6 @@
+Link da guardare:
+
+    Account Scoupus Pili:   https://www.scopus.com/authid/detail.uri?authorId=57194001920
+    Documentation Simupy:   https://simupy.readthedocs.io/en/latest/api/api.html
+    Video Simupy:           https://www.youtube.com/watch?v=4s4drO7KYnw
+

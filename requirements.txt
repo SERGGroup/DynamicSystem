@@ -1,0 +1,5 @@
+simupy
+matplotlib
+sympy==1.0
+numpy<=1.30
+Scipy
